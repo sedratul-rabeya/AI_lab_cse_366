@@ -1,11 +1,22 @@
-This repository contains submission of lab-tasks of the course CSE366 (Artificial Intilligence).
+# CSE366 - Artificial Intelligence Lab Tasks
 
-@Information
-Course Name: CSE366(Artificial Intilligence)
-Semester: Fall 2024
-Section: 06
+This repository contains submissions of lab tasks for the course **CSE366 (Artificial Intelligence)**.
 
-Repository Owner: Most Rabeya Begum
-ID: 2022-1-60-367
+---
 
-Course Instructor: Mohammad Rifat Ahmmad Rashid(Associate Professor, CSE)
+## 📋 Information
+- **Course Name:** CSE366 (Artificial Intelligence)  
+- **Semester:** Fall 2024  
+- **Section:** 06  
+
+---
+
+## 🧑‍💻 Repository Owner
+- **Name:** Most Rabeya Begum  
+- **ID:** 2022-1-60-367  
+
+---
+
+## 👨‍🏫 Course Instructor
+- **Name:** Mohammad Rifat Ahmmad Rashid  
+- **Position:** Associate Professor, CSE  
